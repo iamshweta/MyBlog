@@ -1,0 +1,41 @@
+﻿@model MyBlog.Models.MyBlogsViewModel
+@{
+  
+    var Text = ViewBag.Text;
+    
+}
+
+
+
+<div class="width100">
+    <div class="width70" id="divPostsList" style="float: left">
+
+        @Html.Partial("_PostsListView", Model.PostListModel)
+    </div>
+    <div class="width25 rightSection" style="float: left">
+        <div>
+            <input type="text" id="txtSearchQuery" class="searchBox" />
+            <input type="button" id="btnGlobalSearch" value="Search" class="myBlogButton" />
+        </div>
+        <div class="width100">
+            <h6>Tags :</h6>
+            <div class="tag">
+                @foreach (var item in Model.SearchTagsList)
+                {
+                    <div style="float: left;">
+                        @MyBlog.Helpers.ActionLinkExtensions.TagLink(Html, item)
+                    </div>
+                }
+            </div>
+        </div>
+        <br />
+        <div class="width100 advancedSearchLink">
+            @Html.ActionLink("Advanced Search >>", "Search")
+        </div>
+    </div>
+
+
+</div>
+
+
+

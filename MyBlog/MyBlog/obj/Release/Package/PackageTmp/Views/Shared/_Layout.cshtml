@@ -1,0 +1,92 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Title - My ASP.NET MVC Application</title>
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <meta name="viewport" content="width=device-width" />
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/MyBlogScripts")
+</head>
+<body>
+    <header>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p class="site-title">@Html.ActionLink("MyBlog!", "MyBlogs", "MyBlog")</p>
+            </div>
+            <div class="float-right">
+                <section id="login">
+                    @Html.Partial("_LoginPartial")
+                </section>
+                <nav>
+                    <ul id="menu">
+                        <li>@Html.ActionLink("MyBlogs", "MyBlogs", "MyBlog")</li>
+                        <li>@Html.ActionLink("Recent Blogs", "RecentBlogs", "MyBlog")</li>
+                        <li>@Html.ActionLink("New Blog", "NewBlog", "MyBlog")</li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <div id="body">
+        <section class="featured">
+            <div class="content-wrapper">
+                <hgroup class="title">
+                    <h1>@ViewBag.Title.</h1>
+                </hgroup>
+                <p style="font-style: italic; font-weight: bold">
+                    Share knowledge, spread wisdom!
+                </p>
+                <p style="font-weight: bold;">
+                    Quench your thirst of expressing yourself,  having a dialogue with yourself, and connecting  to like minded people! Joy is sharing!                 
+                </p>
+                <p>
+                    See how you can create a fantastic representation of your thoughts by creating a blog using <span style="font-size: larger; font-weight: bold;">MyBlog!</span>
+                </p>
+            </div>
+        </section>
+        <section class="content-wrapper main-content clear-fix">
+            @RenderBody()
+        </section>
+    </div>
+    <footer>
+        <div class="content-wrapper">
+            <div class="float-left">
+                <p>&copy; @DateTime.Now.Year - MyBlog</p>
+            </div>
+        </div>       
+    </footer>
+
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+@* script for FB APIs *@
+<script>
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '504927379635653',
+            xfbml: true,
+            version: 'v2.0'
+        });
+
+
+    };
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) { return; }
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        //$('.rightSection').css({ 'height': (($(".rightSection").parent().parent().height())) + 'px' });
+     
+    });
+</script>

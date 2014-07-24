@@ -1,0 +1,60 @@
+﻿@model MyBlog.Core.Models.Post
+@{
+    ViewBag.Title = "Post";
+    var isMyPost = Model.PostedBy.UserName.Equals(User.Identity.Name, StringComparison.InvariantCultureIgnoreCase);
+}
+
+@using (Html.BeginForm("EditBlog", "MyBlog"))
+{
+    if (Model != null)
+    {
+    <div>
+        <h3 id="title">@Model.Title</h3>
+        <div class="buttons">
+            @if (isMyPost)
+            {
+                <input type="button" value="Delete" id="btnDeletePost" class="myBlogButton" />
+                <input type="submit" value="Edit" id="btnEditPost" class="myBlogButton" />          
+            }
+            <input type="button" value="Share on facebook!" id="btnSharePost" class="myBlogButton" />
+        </div>
+    </div>
+    <h4 id="description">@Model.Description</h4>
+    @Html.HiddenFor(m => m.Id)
+    <br />
+    <br />
+            if (Model.Tags != null)
+            {
+    <div class="width100">
+        <div style="float: left">
+            <div style="float: left">Tags :</div>
+            <div class="tag">
+                @foreach (var item in Model.Tags)
+                {
+                    <div style="float: left;">
+                        @MyBlog.Helpers.ActionLinkExtensions.TagLink(Html, item)
+                    </div>
+                }
+            </div>
+        </div>
+
+    </div>
+            }
+    <br />
+    <br />
+    <div class="width100">
+        <p>
+            @Html.Raw(Model.Content)
+        </p>
+    </div>
+    <div class="width100" style="text-align:right;font-style:italic;">
+        ~ By @Model.PostedBy.UserName
+    </div>
+    }
+    else
+    {
+    <div class="Error">
+        Post Not Found!!
+    </div>
+    }
+}

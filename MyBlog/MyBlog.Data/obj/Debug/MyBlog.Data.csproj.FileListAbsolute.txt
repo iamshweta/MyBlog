@@ -1,0 +1,150 @@
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.dll
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.pdb
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojResolveAssemblyReference.cache
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+c:\Users\Shweta\documents\visual studio 2012\Projects\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.dll
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\NetSpell.SpellChecker.dll
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\RichTextEditor.dll
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.pdb
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Shweta\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Shweta\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojResolveAssemblyReference.cache
+D:\Shweta\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+D:\Shweta\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\RichTextEditor.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.pdb
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojResolveAssemblyReference.cache
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Owin.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Google.dll
+C:\Users\Shweta\Documents\Visual Studio 2012\Projects\v2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\NetSpell.SpellChecker.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Newtonsoft.Json.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Owin.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\RichTextEditor.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.pdb
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Newtonsoft.Json.xml
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojResolveAssemblyReference.cache
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+E:\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Facebook.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Google.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\NetSpell.SpellChecker.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Newtonsoft.Json.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Owin.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\RichTextEditor.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Seq.Client.Serilog.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Serilog.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Serilog.FullNetFx.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Core.pdb
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Facebook.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.Google.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Newtonsoft.Json.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Seq.Client.Serilog.pdb
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Seq.Client.Serilog.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Serilog.pdb
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Serilog.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Serilog.FullNetFx.pdb
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Serilog.FullNetFx.xml
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojResolveAssemblyReference.cache
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Serilog.Extras.AppSettings.dll
+E:\POCs\MyBlog.V2\MyBlog.V2\MyBlog\MyBlog.Data\bin\Debug\Serilog.Extras.AppSettings.xml

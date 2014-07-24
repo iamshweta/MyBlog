@@ -1,0 +1,38 @@
+﻿@model MyBlog.Models.PostsListViewModel
+@{
+    string actionName = ViewBag.ActionName ?? string.Empty;
+}
+
+<h3>@Model.Header</h3>
+@if (Model.Posts != null && Model.Posts.Any())
+{    <div data-index="@Model.PageInfo.PageNo">
+    <ul class="aside">
+
+        @foreach (var item in @Model.Posts)
+        {
+            <li>
+                <h5>
+                    @MyBlog.Helpers.ActionLinkExtensions.PostLink(Html, item)
+                </h5>
+            </li>
+        }
+    </ul>
+    </div>        
+    <div class="width100" style="margin: 5px;">
+        @if (Model.ShowPrevious)
+        {
+            <a id="linkPrev">prev</a>
+        }
+        @if (Model.TotalPosts > 5 || actionName.Equals("RecentBlogs"))
+        {
+            <a id="linkNext">next</a>
+        }
+        @Html.HiddenFor(m => actionName)
+        @Html.HiddenFor(m => m.Tag)
+        @Html.HiddenFor(m => m.PageInfo.PageNo, new { id = "hiddenPageIndex" })
+    </div>
+}
+else
+{
+    <h5>No Blogs found!</h5>
+}

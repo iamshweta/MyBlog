@@ -1,0 +1,86 @@
+﻿body, html {
+  height: 100%;
+}
+
+.width80 {
+    width : 80%;
+}
+
+.width15 {
+    width : 20%;
+}
+.width20 {
+    width : 20%;
+}
+
+.width70 {
+    width : 70%;
+}
+.width25 {
+    width : 25%;
+}
+
+.width30 {
+    width : 30%
+}
+
+.width100 {
+    width : 100%;
+}
+
+.Error {
+    display : block;
+    color : red;
+    font : bold;
+}
+
+.tag {
+    font-style:italic;
+    float : left;
+}
+
+floatLeft {
+    float : left;
+}
+
+floatRight {
+    float : right;
+}
+
+.rightSection {
+    
+    padding:10px;
+    border: groove darkgray;
+    float:  left;
+    border-radius: 10px;
+    height: 300px;
+
+}
+
+.searchBox {
+    width: 135px;margin-left: 5px;
+}
+
+.myBlogButton {  
+   
+    float: right;
+}
+
+.advancedSearchLink {
+    margin-top: 70%;
+}
+
+div.buttons {
+    float : right;
+}
+
+.newBlogTextArea {
+    float: left;padding:10px;
+}
+
+.newBlogLabel {
+    text-align: right;
+    float:left;
+    padding-top: 10px;
+    width:15%
+}
