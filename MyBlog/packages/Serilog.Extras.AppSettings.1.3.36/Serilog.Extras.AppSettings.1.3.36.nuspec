@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Serilog.Extras.AppSettings</id>
+    <version>1.3.36</version>
+    <authors>Serilog Contributors</authors>
+    <owners>Serilog Contributors</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>http://serilog.net/</projectUrl>
+    <iconUrl>http://serilog.net/images/serilog-nuget.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds support for configuring Serilog from App.config and Web.config files</description>
+    <language>en-US</language>
+    <tags>serilog xml</tags>
+    <dependencies>
+      <dependency id="Serilog" />
+    </dependencies>
+  </metadata>
+</package>
